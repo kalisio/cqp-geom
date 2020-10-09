@@ -1,7 +1,7 @@
 const moment = require('moment')
 
-const start = moment('2020-05-28')
-const end = moment('2020-05-30')
+const start = moment('2020-03-20')
+const end = moment('2020-05-20')
 let tasks = []
 let date = start
 while (date.isSameOrBefore(end)) {
@@ -40,4 +40,3 @@ module.exports = {
     }
   }
 }
-
