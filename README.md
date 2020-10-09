@@ -14,7 +14,7 @@ Travaux pratiques prévus sur une journée:
 * focus sur la spécificité des données spatio-temporelles,
 * reprise du fil rouge et analyse des données COVID-19.
 
-Le support est disponible  en ligne [ici](https://docs.google.com/presentation/d/1grH4O70qP_dDWy47xgNpttliFySam_cig4olWJNSnJM) et [ici](./KALISIO - U5 - S18.pdf) en version imprimable.
+Le support est disponible  en ligne [ici](https://docs.google.com/presentation/d/1grH4O70qP_dDWy47xgNpttliFySam_cig4olWJNSnJM) et [ici](./KALISIO%20-%20U5%20-%20S18.pdf) en version imprimable.
 
 #### S19
 
@@ -24,7 +24,7 @@ Travaux pratiques prévus sur une journée:
 * croisement de données (limites administratives/population),
 * calcul d’indicateur (taux d'hospitalisation).
 
-Le support est disponible  en ligne [ici](https://docs.google.com/presentation/d/1kBdJKmmuZ1Mtx3dckcFc5FN4DhWyLLASNdj7xdG-mfk) et [ici](./KALISIO - U5 - S19.pdf) en version imprimable.
+Le support est disponible  en ligne [ici](https://docs.google.com/presentation/d/1kBdJKmmuZ1Mtx3dckcFc5FN4DhWyLLASNdj7xdG-mfk) et [ici](./KALISIO%20-%20U5%20-%20S19.pdf) en version imprimable.
 
 Les solutions sont disponibles dans le dossier :open_file_folder: [covid19](./covid19)
 
@@ -39,7 +39,7 @@ Travaux pratiques prévus sur une demi-journée:
 * configuration de la sémiologie,
 * configuration pour scénario dynamique évoluant avec le temps.
 
-Le support est disponible  en ligne [ici](https://docs.google.com/presentation/d/1Evjmnw4wijwrE8C8M_mCkN7W3vdmtjEUrEYpJD4tmYk) et [ici](./KALISIO - U5 - S21.pdf) en version imprimable.
+Le support est disponible  en ligne [ici](https://docs.google.com/presentation/d/1Evjmnw4wijwrE8C8M_mCkN7W3vdmtjEUrEYpJD4tmYk) et [ici](./KALISIO%20-%20U5%20-%20S21.pdf) en version imprimable.
 
 Les solutions sont disponibles dans le dossier :open_file_folder: [covid19](./covid19)
 
