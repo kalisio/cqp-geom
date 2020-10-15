@@ -41,5 +41,5 @@ Travaux pratiques prévus sur une demi-journée:
 
 Le support est disponible  en ligne [ici](https://docs.google.com/presentation/d/1Evjmnw4wijwrE8C8M_mCkN7W3vdmtjEUrEYpJD4tmYk) et [ici](./KALISIO%20-%20U5%20-%20S21.pdf) en version imprimable.
 
-Les solutions sont disponibles dans le dossier :open_file_folder: [covid19](./covid19)
+Les solutions sont disponibles dans le dossier :open_file_folder: [kano](./covid19)
 

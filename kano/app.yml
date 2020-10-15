@@ -5,13 +5,18 @@ services:
     image: kalisio/kano:dev
     environment:
       - APP_SECRET=xxx
+      - LAYERS_FILTER=OSM_BRIGHT OSM_DARK IMAGERY CESIUM_ELLIPSOID K2 U5_S21
       - BUILD_NUMBER
       - NODE_APP_INSTANCE
       - DB_URL
       - DATA_DB_URL
-      - CESIUM_TOKEN
+      - CESIUM_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJmNWJjN2NlMS00NjEyLTRkN2QtYTBiNS00NzYyZDY0MjM3NzIiLCJpZCI6NjcyNCwic2NvcGVzIjpbImFzciIsImdjIl0sImlhdCI6MTU0NzIyOTM4M30.eFmuVvaLk21UF9HY26GWaNHGcoY9SLCACfcZ4_NoCkI
+    volumes:
+      - type: bind
+        source: ./covid19-layers.js
+        target: /opt/kalisio/kano/api/config/layers/covid19-layers.js
     ports:
-      - "8081:8081"
+      - "3000:8081"
     networks:
       - app
 
