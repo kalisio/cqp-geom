@@ -54,7 +54,7 @@ module.exports = [
         template: '<%= properties.nom %>: <%= properties.hospitalisations %> hospitalisations'
       }
     }
-  },
+  }/*,
   {
     name: 'Layers.U5_S21_HEATMAP',
     description: 'Layers.U5_S21_HEATMAP_DESCRIPTION',
@@ -71,7 +71,7 @@ module.exports = [
           U5_S21_HEATMAP_DESCRIPTION: 'Hospitalizations by department'
         }
       }
-    }/*,
+    },
     tags: [ 'business' ],
     icon: 'fas fa-atlas',
     attribution: 'Santé Publique Fance / IGN / INSEE',
@@ -101,8 +101,8 @@ module.exports = [
       max: 100,
       // The higher the blur factor is, the smoother the gradients will be
       blur: 0.8
-    }*/
-  }
+    }
+  }*/
 ]
 
 
