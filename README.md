@@ -6,7 +6,7 @@ Ce dépôt contient les supports de formation pour les sessions assurées par le
 
 A l'issu des différentes unités les stagiaires sont capables de traiter de façon automatisée des données liées à la COVID-19 fournies par les pouvoirs public afin de produire une carte spatio-temporelle interactive:
 
-![Image](./kano-covid19-video.png)
+![Image](./kano-covid19-video.gif)
 
 ### Unité 5 - L’analyse et le traitement des donnees issues d’un SIG
 
