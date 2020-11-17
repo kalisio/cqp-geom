@@ -10,7 +10,7 @@ services:
       - NODE_APP_INSTANCE
       - DB_URL
       - DATA_DB_URL
-      - CESIUM_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJmNWJjN2NlMS00NjEyLTRkN2QtYTBiNS00NzYyZDY0MjM3NzIiLCJpZCI6NjcyNCwic2NvcGVzIjpbImFzciIsImdjIl0sImlhdCI6MTU0NzIyOTM4M30.eFmuVvaLk21UF9HY26GWaNHGcoY9SLCACfcZ4_NoCkI
+      - CESIUM_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIzNmU5ZDA5Yi0yMjc1LTRmYmUtYWJlMy0xZGUyMWNhNDFlNTQiLCJpZCI6NjcyNCwiaWF0IjoxNjA1NjM5NTkwfQ.CJwGZXNmowTDo9nJ6tnmeIcwtXWZN8Q9bzfDyEH3iN8
     volumes:
       - type: bind
         source: ./covid19-layers.js
