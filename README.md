@@ -2,6 +2,8 @@
 
 Ce dépôt contient les supports de formation pour les sessions assurées par les intervenants Kalisio sur le CQP GEOM (géomaticien développeur d’applications spatiales).
 
+Vous pouvez nous faire vos retours en remplissant ce [formulaire](https://docs.google.com/forms/d/e/1FAIpQLScvatyXcul8YGUmoaKW10V7eloQ8eVHtWNoG-RwHJnjkreAwQ/viewform?usp=pp_url&entry.1814456484=Neutre&entry.1971004064=Neutre&entry.57827006=Neutre&entry.245395481=Neutre&entry.2059830929=Neutre&entry.590740906=Neutre&entry.875360880=Neutre&entry.1740590913=Neutre&entry.1087460427=Neutre&entry.1923491445=Neutre).
+
 ## Bloc 2 - Traiter, analyser et diffuser les données
 
 A l'issu des différentes unités les stagiaires sont capables de traiter de façon automatisée des données liées à la COVID-19 fournies par les pouvoirs public afin de produire une carte spatio-temporelle interactive:
