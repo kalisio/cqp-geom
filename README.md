@@ -6,7 +6,7 @@ Vous pouvez nous faire vos retours en remplissant ce [formulaire](https://docs.g
 
 ## Bloc 2 - Traiter, analyser et diffuser les données
 
-A l'issu des différentes unités les stagiaires sont capables de traiter de façon automatisée des données liées à la COVID-19 fournies par les pouvoirs public afin de produire une carte spatio-temporelle interactive:
+A l'issue des différentes unités les stagiaires sont capables de traiter de façon automatisée des données liées à la COVID-19 fournies par les pouvoirs public afin de produire une carte spatio-temporelle interactive:
 
 ![Image](./kano-covid19-video.gif)
 
